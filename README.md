@@ -1,5 +1,6 @@
 # ui-understanding-ai
 
+**how  agent work with user interface like human **
 
 Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs
 
